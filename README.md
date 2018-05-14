@@ -6,8 +6,8 @@
 
 ## Installing
 
-1. 前往 [release](https://github.com/imzhengfei/ghost-theme-flatghost/releases) 页面下载最新版 zip 安装包。
-2.修改源码中关于disque和社交媒体链接的部分
+1. 前往 [release](https://github.com/imzhengfei/ghost-theme-flatghost/releases) 页面下载最新版 zip 安装包。 
+2. 修改源码中关于disque和社交媒体链接的部分
 3. 登录 ghsot 博客管理后台或者打开 ghost 桌面 app 进入管理，在 `SETTINGS > Design > Themes > Upload a theme` 上传主题 zip 安装包并 `Active now` 启用主题，点右上角 `Save` 保存。
 4. 前往 `Labs > Enable Beta Features` ，勾选 `Public API` ，点右上角 `Save` 保存。
 
