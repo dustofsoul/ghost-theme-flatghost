@@ -22,7 +22,7 @@
 ## use
 *   编辑/partials/comments.hbs内yousubdomain内子域为你申请的disqus子域
 *   编辑/partials/widget-blog-follow.hbs内需要开启的社交链接并取消注释
-*   文章中需要使用代码高亮功能的部分使用/`/`/`
+*   文章中需要使用代码高亮功能的部分使用/```
 ## Planning
 
 -   [x] 响应式设计
