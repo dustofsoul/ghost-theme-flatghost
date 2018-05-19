@@ -19,10 +19,6 @@
 *   侧边栏多种小工具支持（推荐文章，标签云，博客统计）；
 *   额外的社会化链接图标：GitHub、知乎、微博（需手动在主题文件中修改链接）。
 
-## use
-*   编辑/partials/comments.hbs内yousubdomain内子域为你申请的disqus子域
-*   编辑/partials/widget-blog-follow.hbs内需要开启的社交链接并取消注释
-*   文章中需要使用代码高亮功能的部分使用/```
 ## Planning
 
 -   [x] 响应式设计
